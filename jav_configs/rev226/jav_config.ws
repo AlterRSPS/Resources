@@ -48,7 +48,7 @@ msg=new_version_link=http://oldschool.runescape.com/
 param=15=0
 param=7=0
 param=4=1
-param=17=https://github.com/AlterRSPS/Resources/blob/main/jav_configs/world_list.ws
+param=17=https://raw.githubusercontent.com/AlterRSPS/Resources/refs/heads/main/jav_configs/rev226/slr_modified.ws
 param=3=true
 param=12=351
 param=21=0
